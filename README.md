@@ -1,2 +1,56 @@
 # Lab-4-Robotics-Control.Github.io
 Electrical and Computer Engineering 5 Embedded Systems and Control: Line Following Robot
+# 🤖 Line Following Robot – ECE 5 Lab 4
+
+Welcome to my embedded systems project for **Electrical and Computer Engineering 5**. This robot uses sensors and control logic to autonomously follow a line on the ground.
+
+---
+
+## 🔧 Project Overview
+- **Course**: ECE 5 – Embedded Systems and Control
+- **Challenge**: Design, build, and program a robot that follows a line
+- **Microcontroller**: ESP32-S3
+- **Motor Driver**: L298N
+- **Sensors**: IR reflectance sensors
+- **Power**: 9V battery with bypass capacitors for stability
+
+---
+
+## 🛠️ Build Timeline
+| Phase        | Description                          | Status |
+|--------------|--------------------------------------|--------|
+| Ideation     | Brainstorming & SCAMPER techniques   | ✅     |
+| Prototyping  | Breadboard setup & sensor testing    | ✅     |
+| Coding       | PID control logic implementation     | ✅     |
+| Debugging    | Voltage divider tuning & noise fix   | ✅     |
+| Final Build  | PCB integration & chassis assembly   | 🔄     |
+
+---
+
+## 📸 Media & Demos
+- [CAD Slides – Challenge 1A–1D](https://docs.google.com/presentation/d/1opP4WXYlSKa0Z7wryVznJv5zjfVGOB9-epKjNLX2VW0/edit?slide=id.p5#slide=id.p5)
+- [Robot Timeline Presentation](https://docs.google.com/presentation/d/1uyi_ApepTew1Ad8a9Qz1RiWkS9CUuWSK88DDdsAQ6KY/edit?slide=id.g382bb0f3784_0_347#slide=id.g382bb0f3784_0_347)
+- [Amplifier Circuit Documentation](https://docs.google.com/document/d/1ThzGwrvvmfwQV3h5Nsf1mck30zEKeqryHB6cGTcGlo0/edit?tab=t.0)
+
+---
+
+## 📄 Technical Docs
+- [L298 Motor Driver Notes](https://docs.google.com/document/d/1ThzGwrvvmfwQV3h5Nsf1mck30zEKeqryHB6cGTcGlo0/edit?tab=t.0)
+- [PCB Design Worksheet](https://docs.google.com/document/d/1CU_4SJ3abL_oFTu9EligQ8rewvFGPBS7/edit?tab=t.0)
+- [Fishbone Diagram](https://chatgpt.com/c/68adcfbc-baac-8327-bb84-1427ac599e0e)
+
+---
+
+## 🧠 Reflections
+> “Troubleshooting analog noise taught me more than any tutorial. Bypass capacitors are underrated heroes.”
+
+---
+
+## 🚀 Try It Yourself
+Want to build your own? Fork this repo and check out the `index.html` and `README.md` for setup instructions.
+
+---
+
+## 📬 Contact
+For questions or collaboration, reach out via GitHub or email.
+
